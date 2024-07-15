@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushagraTripathy
 - 👀 I’m interested in Software development & Data Science 
-- 🌱 I’m currently pursuing my Btech 
+- 🌱 I’m currently pursuing my Btech at @MadhavInstituteOfTechnology&Science
 - 💞️ I’m looking to collaborate on any project related to data science 
 - 📫 Contact me on my mail id tripathikushagra123@gmail.com 
 
